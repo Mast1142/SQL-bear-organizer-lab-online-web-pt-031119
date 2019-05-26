@@ -1,6 +1,6 @@
 INSERT INTO bears(
-  name, 
-  age, 
+  name,
+  age,
   gender,
   color,
   temperament,
@@ -15,8 +15,8 @@ INSERT INTO bears(
 );
 
 INSERT INTO bears(
-  name, 
-  age, 
+  name,
+  age,
   gender,
   color,
   temperament,
@@ -31,8 +31,8 @@ INSERT INTO bears(
 );
 
 INSERT INTO bears(
-  name, 
-  age, 
+  name,
+  age,
   gender,
   color,
   temperament,
@@ -47,8 +47,8 @@ INSERT INTO bears(
 );
 
 INSERT INTO bears(
-  name, 
-  age, 
+  name,
+  age,
   gender,
   color,
   temperament,
@@ -63,8 +63,8 @@ INSERT INTO bears(
 );
 
 INSERT INTO bears(
-  name, 
-  age, 
+  name,
+  age,
   gender,
   color,
   temperament,
@@ -79,8 +79,8 @@ INSERT INTO bears(
 );
 
 INSERT INTO bears(
-  name, 
-  age, 
+  name,
+  age,
   gender,
   color,
   temperament,
@@ -95,8 +95,8 @@ INSERT INTO bears(
 );
 
 INSERT INTO bears(
-  name, 
-  age, 
+  name,
+  age,
   gender,
   color,
   temperament,
@@ -111,8 +111,8 @@ INSERT INTO bears(
 );
 
 INSERT INTO bears(
-  name, 
-  age, 
+  name,
+  age,
   gender,
   color,
   temperament,
