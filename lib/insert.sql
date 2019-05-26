@@ -7,14 +7,7 @@ INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES(
   TRUE
 );
 
-INSERT INTO bears(
-  name,
-  age,
-  gender,
-  color,
-  temperament,
-  alive
-) VALUES(
+INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES(
   'Rowdy',
   25,
   'Female',
@@ -23,14 +16,7 @@ INSERT INTO bears(
   TRUE
 );
 
-INSERT INTO bears(
-  name,
-  age,
-  gender,
-  color,
-  temperament,
-  alive
-) VALUES(
+INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES(
   'Tabitha',
   28,
   'Female',
@@ -39,14 +25,7 @@ INSERT INTO bears(
   TRUE
 );
 
-INSERT INTO bears(
-  name,
-  age,
-  gender,
-  color,
-  temperament,
-  alive
-) VALUES(
+INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES(
   'Sergeant Brown',
   18,
   'Male',
@@ -55,14 +34,7 @@ INSERT INTO bears(
   TRUE
 );
 
-INSERT INTO bears(
-  name,
-  age,
-  gender,
-  color,
-  temperament,
-  alive
-) VALUES(
+INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES(
   'Melissa',
   22,
   'Female',
@@ -71,14 +43,7 @@ INSERT INTO bears(
   False
 );
 
-INSERT INTO bears(
-  name,
-  age,
-  gender,
-  color,
-  temperament,
-  alive
-) VALUES(
+INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES(
   'Grinch',
   28,
   'Female',
@@ -87,14 +52,7 @@ INSERT INTO bears(
   TRUE
 );
 
-INSERT INTO bears(
-  name,
-  age,
-  gender,
-  color,
-  temperament,
-  alive
-) VALUES(
+INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES(
   'Wendy',
   73,
   'Female',
@@ -103,14 +61,7 @@ INSERT INTO bears(
   TRUE
 );
 
-INSERT INTO bears(
-  name,
-  age,
-  gender,
-  color,
-  temperament,
-  alive
-) VALUES(
+INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES(
   NULL,
   80,
   'Male',
