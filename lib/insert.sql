@@ -1,11 +1,4 @@
-INSERT INTO bears(
-  name,
-  age,
-  gender,
-  color,
-  temperament,
-  alive,
-) VALUES(
+INSERT INTO bears(name, age, gender, color, temperament, alive) VALUES(
   'Mr.Chocolate',
   25,
   'Male',
@@ -20,7 +13,7 @@ INSERT INTO bears(
   gender,
   color,
   temperament,
-  alive,
+  alive
 ) VALUES(
   'Rowdy',
   25,
@@ -36,7 +29,7 @@ INSERT INTO bears(
   gender,
   color,
   temperament,
-  alive,
+  alive
 ) VALUES(
   'Tabitha',
   28,
@@ -52,7 +45,7 @@ INSERT INTO bears(
   gender,
   color,
   temperament,
-  alive,
+  alive
 ) VALUES(
   'Sergeant Brown',
   18,
@@ -68,7 +61,7 @@ INSERT INTO bears(
   gender,
   color,
   temperament,
-  alive,
+  alive
 ) VALUES(
   'Melissa',
   22,
@@ -84,7 +77,7 @@ INSERT INTO bears(
   gender,
   color,
   temperament,
-  alive,
+  alive
 ) VALUES(
   'Grinch',
   28,
@@ -100,7 +93,7 @@ INSERT INTO bears(
   gender,
   color,
   temperament,
-  alive,
+  alive
 ) VALUES(
   'Wendy',
   73,
@@ -116,7 +109,7 @@ INSERT INTO bears(
   gender,
   color,
   temperament,
-  alive,
+  alive
 ) VALUES(
   NULL,
   80,
